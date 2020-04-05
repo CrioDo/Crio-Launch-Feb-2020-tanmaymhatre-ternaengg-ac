@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Crio-Launch-Feb-2020-tanmaymhatre-ternaengg-ac/precache-manifest.34ad2f77de9611bd562ff16618ea2fcd.js"
+  "/Crio-Launch-Feb-2020-tanmaymhatre-ternaengg-ac/precache-manifest.dd786da1844f6908b0c9c6f665770e0b.js"
 );
 
 self.addEventListener('message', (event) => {
